@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Fedora-1E1E2E?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Excel_Avançado-1E1E2E?style=for-the-badge&logoColor=C3E88D" alt="Excel" />
+  <img src="https://img.shields.io/badge/Excel_Intermediário-1E1E2E?style=for-the-badge&logoColor=C3E88D" alt="Excel" />
 </p>
 
 <!-- Quando começar a usar, é só remover as linhas de comentário em volta deste bloco
