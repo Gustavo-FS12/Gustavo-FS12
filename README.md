@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-FS12&bg_color=1E1E2E&color=E0E0E0&line=F78C6C&point=C792EA&area=true&area_color=C792EA&hide_border=true" alt="Gráfico de contribuições" />
+  <img src="https://raw.githubusercontent.com/Gustavo-FS12/Gustavo-FS12/output/snake.svg" alt="Gráfico de contribuições" />
 </p>
 
 <p align="center">
